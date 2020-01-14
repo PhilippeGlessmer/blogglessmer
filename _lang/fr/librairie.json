@@ -1,0 +1,16 @@
+{
+  "home": "Accueil",
+  "continue": "Continuer de lire...",
+  "about": "À propos",
+  "ariane" : "Liste des articles",
+  "connexion" : "Connexion",
+  "deconnexion" : "Déconnexion",
+  "Subscribe" : "S'inscrire",
+  "addArticle" : "Ajouter un article",
+  "addCategorie" : "Ajouter une catégorie",
+  "manager" : "Gestion Articles",
+  "langage" : "Choix de la langue",
+  "french" : "Français",
+  "english" : "Anglais",
+  "edit" : "Modifier"
+}
